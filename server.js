@@ -26,6 +26,7 @@ const makePage = (color) => {
 
   const text = 
     `
+    <!DOCTYPE html>
     <html>
       <head>
         <title>${title}</title>
